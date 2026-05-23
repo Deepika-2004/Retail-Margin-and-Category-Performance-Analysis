@@ -3,6 +3,7 @@
 **Tools:** Python · pandas · Power BI · Excel  
 
 **Data:** Online Retail II dataset (UCI Machine Learning Repository)  
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 **Coverage:** 958K UK transactions · 12 product categories
 
