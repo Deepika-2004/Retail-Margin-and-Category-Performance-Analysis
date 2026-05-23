@@ -38,9 +38,3 @@ Analyses retail transaction data to identify margin performance, pricing risks, 
 | ⚠️ Risk — Review Pricing | Margin < 50% |
 | 🔀 Complex — Rationalise Range | 400+ products and margin < 55% |
 | ✅ Stable — Monitor | All others |
-
-
-
----
-
-## Repository Structure
